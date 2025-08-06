@@ -1,0 +1,26 @@
+# Student Portal Demo
+
+This is a basic demo of a Student Portal application. The goal is to create a centralized platform where students can:
+
+- View their academic records
+- Register for courses
+- Check schedules and timetables
+- Communicate with faculty
+- Submit assignments
+- Receive important announcements
+
+## Features (Planned)
+
+- User authentication (Student/Teacher roles)
+- Dashboard for personalized info
+- Course enrollment management
+- Assignment upload and tracking
+- Notifications and alerts system
+
+## Tech Stack (Suggested)
+
+- Frontend: React or Vue.js
+- Backend: Node.js with Express or Django
+- Database: MongoDB or PostgreSQL
+
+This project is intended for demonstration and learning purposes.
